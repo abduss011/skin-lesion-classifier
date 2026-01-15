@@ -53,7 +53,7 @@ A DL web application project to classify a skin lesion.Used MobileNetV2 model an
 
 ## Demo
 
-![web demo](web1.png)
+![web demo](demmo/web1.png)
 
 
 
