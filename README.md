@@ -51,10 +51,6 @@ A DL web application project to classify a skin lesion.Used MobileNetV2 model an
 **Model Export** : TensorFlow.js converter
 **Data Processing** : Pandas, scikit-image, scikit-learn
 
-## Demo
-
-![web demo](demmo/web1.png)
-
 
 
 **DISCLAIMER**: This is a student project and is **NOT intended for medical diagnosis**. The model may produce incorrect predictions. Always consult a qualified dermatologist for actual medical concerns. This project is for educational and demonstration purposes only.
